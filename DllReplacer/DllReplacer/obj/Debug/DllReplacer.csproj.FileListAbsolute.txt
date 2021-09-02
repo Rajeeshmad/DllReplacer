@@ -1,0 +1,10 @@
+C:\RM\DllReplacer\DllReplacer\DllReplacer\bin\Debug\DllReplacer.exe.config
+C:\RM\DllReplacer\DllReplacer\DllReplacer\bin\Debug\DllReplacer.exe
+C:\RM\DllReplacer\DllReplacer\DllReplacer\bin\Debug\DllReplacer.pdb
+C:\RM\DllReplacer\DllReplacer\DllReplacer\obj\Debug\DllReplacer.csprojAssemblyReference.cache
+C:\RM\DllReplacer\DllReplacer\DllReplacer\obj\Debug\DllReplacer.Form1.resources
+C:\RM\DllReplacer\DllReplacer\DllReplacer\obj\Debug\DllReplacer.Properties.Resources.resources
+C:\RM\DllReplacer\DllReplacer\DllReplacer\obj\Debug\DllReplacer.csproj.GenerateResource.cache
+C:\RM\DllReplacer\DllReplacer\DllReplacer\obj\Debug\DllReplacer.csproj.CoreCompileInputs.cache
+C:\RM\DllReplacer\DllReplacer\DllReplacer\obj\Debug\DllReplacer.exe
+C:\RM\DllReplacer\DllReplacer\DllReplacer\obj\Debug\DllReplacer.pdb
