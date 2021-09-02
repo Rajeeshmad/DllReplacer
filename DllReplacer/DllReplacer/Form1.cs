@@ -49,6 +49,10 @@ namespace DllReplacer
                 foreach (var item in filesToBeRepalced)
                 {
                     FileVersionInfo dinfo = FileVersionInfo.GetVersionInfo(item);
+
+                    if (dinfo.FileName == vinfo.FileName)
+                        continue;
+
                     if (dinfo.OriginalFilename == vinfo.OriginalFilename && dinfo.FileVersion == vinfo.FileVersion)
                     {
                         File.Copy(vinfo.FileName, dinfo.FileName, true);
